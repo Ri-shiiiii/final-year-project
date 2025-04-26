@@ -1,0 +1,15 @@
+import pandas as pd
+
+# Load the CSV file, skipping the first row (which is the original header)
+df = pd.read_csv('data.csv', skiprows=0)
+
+# Drop any unwanted 'Unnamed' index columns if they exist
+df = df.loc[:, ~df.columns.str.contains('^Unnamed')]
+
+# Preview the cleaned data
+print("✅ Cleaned Data Preview:")
+print(df.head())
+
+# Optional: Check column names
+print("\n📋 Column Names:")
+print(df.columns.tolist())

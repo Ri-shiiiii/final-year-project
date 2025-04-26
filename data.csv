@@ -1,0 +1,347 @@
+,Number Plate,Vehicle Type,Owner Age,License Type,Violation Type,Severity,Date,Time,Location,Repeated Offense,Total Violations,Days Since Last Violation,Weather,Safe
+,MH16IJ1234,Car,31,LMV,Speeding,High,2024-10-01,15:00,Pune,No,1,60,Clear,No
+,KLO3ME4477,Car,17,LMV,Speeding,High,2024-10-01,15:00,Hyderabad,Yes,1,60,Clear,No
+,MH17KL5678,Bike,28,MCWG,No Helmet,Low,2024-09-20,10:30,Mumbai,Yes,1,30,Cloudy,No
+,MH18MN6789,Truck,42,HMV,Overloading,High,2024-08-15,12:45,Nashik,No,1,90,Rainy,Yes
+,MH19OP1234,Car,36,LMV,Parking,Medium,2024-07-10,14:00,Thane,Yes,3,45,Clear,No
+,MH20QR5678,Bike,25,MCWG,Speeding,High,2024-06-05,9:15,Aurangabad,No,1,120,Foggy,Yes
+,MH21ST6789,Truck,47,HMV,Signal Jump,Medium,2024-05-20,11:30,Pune,Yes,4,15,Clear,No
+,MH22UV1234,Car,29,LMV,No Helmet,Low,2024-04-25,18:00,Mumbai,No,1,150,Rainy,Yes
+,MH23WX5678,Bike,33,MCWG,Parking,Low,2024-03-15,16:45,Nashik,Yes,2,60,Cloudy,No
+,MH24YZ6789,Truck,44,HMV,Speeding,High,2024-02-10,13:00,Thane,No,1,75,Clear,Yes
+,MH25AB1234,Car,30,LMV,Overloading,High,2024-01-05,20:30,Aurangabad,Yes,3,30,Rainy,No
+,MH26CD5678,Bike,26,MCWG,No Helmet,Low,2023-12-15,9:00,Pune,No,1,180,Foggy,Yes
+,MH27EF6789,Truck,39,HMV,Signal Jump,Medium,2023-11-20,14:15,Mumbai,Yes,2,60,Clear,No
+,MH28GH1234,Car,35,LMV,Speeding,High,2023-10-10,19:00,Nashik,No,1,90,Cloudy,Yes
+,MH29IJ5678,Bike,22,MCWG,Parking,Low,2023-09-05,8:30,Thane,Yes,3,45,Rainy,No
+,MH30KL6789,Truck,50,HMV,Overloading,High,2023-08-15,11:00,Aurangabad,No,1,120,Clear,Yes
+,MH31MN1234,Car,29,LMV,No Helmet,Low,2023-07-20,15:30,Pune,Yes,2,30,Foggy,No
+,MH48UV6789,Truck,46,HMV,Overloading,High,2022-02-20,14:30,Nashik,No,1,90,Clear,Yes
+,MH49WX1234,Car,29,LMV,Speeding,High,2022-01-15,19:00,Thane,Yes,3,45,Rainy,No
+,MH50YZ5678,Bike,27,MCWG,Parking,Low,2021-12-10,10:30,Aurangabad,No,1,180,Cloudy,Yes
+,MH51AB6789,Truck,40,HMV,No Helmet,Low,2021-11-05,12:00,Pune,Yes,2,60,Clear,No
+,MH52CD1234,Car,34,LMV,Signal Jump,Medium,2021-10-20,15:45,Mumbai,No,1,90,Rainy,Yes
+,MH53EF5678,Bike,22,MCWG,Speeding,High,2021-09-15,8:00,Nashik,Yes,3,30,Foggy,No
+,MH54GH6789,Truck,49,HMV,Overloading,High,2021-08-10,11:30,Thane,No,1,120,Clear,Yes
+,MH55IJ1234,Car,30,LMV,No Helmet,Low,2021-07-05,20:00,Aurangabad,Yes,2,45,Rainy,No
+,MH56KL5678,Bike,26,MCWG,Parking,Low,2021-06-15,9:15,Pune,No,1,150,Cloudy,Yes
+,MH57MN6789,Truck,43,HMV,Speeding,High,2021-05-20,14:00,Mumbai,Yes,3,60,Clear,No
+,MH58OP1234,Car,35,LMV,Signal Jump,Medium,2021-04-10,19:30,Nashik,No,1,90,Rainy,Yes
+,MH59QR5678,Bike,24,MCWG,No Helmet,Low,2021-03-05,10:00,Thane,Yes,2,30,Foggy,No
+,MH60ST6789,Truck,47,HMV,Overloading,High,2021-02-15,12:30,Aurangabad,No,1,120,Clear,Yes
+,MH61UV1234,Car,29,LMV,Speeding,High,2021-01-20,15:00,Pune,Yes,3,45,Rainy,No
+,MH62WX5678,Bike,31,MCWG,Parking,Low,2020-12-10,8:30,Mumbai,No,1,180,Cloudy,Yes
+,MH63YZ6789,Truck,38,HMV,No Helmet,Low,2020-11-05,14:15,Nashik,Yes,2,60,Rainy,No
+,MH12AB1234,Car,32,LMV,Speeding,High,2024-10-20,22:15,Pune,Yes,3,45,Clear,No
+,MH01CD5678,Bike,24,MCWG,Parking,Low,2023-12-10,9:30,Mumbai,No,1,190,Cloudy,Yes
+,MH09EF6789,Bike,29,MCWOG,No Helmet,Low,2024-02-15,17:00,Nashik,Yes,2,60,Rainy,No
+,MH20GH4567,Truck,45,HMV,Signal Jump,Medium,2024-08-25,13:45,Nagpur,No,1,85,Clear,Yes
+,DL01IJ9012,SUV,38,LMV,Drunk Driving,High,2024-05-05,23:45,Delhi,Yes,4,30,Clear,No
+,KA02KL3456,Auto,28,LMV,Overloading,High,2024-07-12,8:20,Bengaluru,Yes,2,75,Rainy,No
+,TN03MN7890,Bus,50,HMV,Wrong Lane,Medium,2023-11-30,16:10,Chennai,No,1,200,Cloudy,Yes
+,GJ04OP1234,Car,27,LMV,Red Light Jump,Medium,2024-03-22,14:55,Ahmedabad,Yes,3,50,Clear,No
+,AP05QR5678,Bike,22,MCWG,No Helmet,Low,2024-09-18,19:30,Hyderabad,Yes,2,90,Clear,Yes
+,RJ06ST9012,Truck,48,HMV,Speeding,High,2024-01-15,12:00,Jaipur,No,1,150,Foggy,No
+,UP07UV3456,Bike,19,MCWOG,No License,High,2024-04-30,10:05,Lucknow,Yes,5,20,Rainy,No
+,WB08WX7890,Car,55,LMV,Illegal Parking,Low,2023-10-05,15:20,Kolkata,No,1,220,Clear,Yes
+,MP09YZ1234,Truck,40,HMV,Overloading,High,2024-06-14,7:45,Bhopal,Yes,3,65,Cloudy,No
+,MH10AB5678,Bike,26,MCWG,Speeding,High,2024-11-11,21:00,Pune,Yes,4,25,Clear,No
+,DL11CD9012,SUV,33,LMV,Signal Jump,Medium,2024-02-28,18:30,Delhi,No,1,180,Foggy,Yes
+,KA12EF3456,Auto,31,LMV,Expired Insurance,Medium,2023-09-10,11:15,Mysuru,Yes,2,120,Rainy,No
+,TN13GH7890,Bus,52,HMV,Dangerous Overtaking,High,2024-07-05,14:00,Coimbatore,Yes,3,45,Clear,No
+,GJ14IJ1234,Car,29,LMV,Wrong Parking,Low,2024-01-20,9:45,Surat,No,1,160,Cloudy,Yes
+,AP15KL5678,Bike,25,MCWOG,No Helmet,Low,2024-08-10,20:00,Visakhapatnam,Yes,2,70,Clear,No
+,RJ16MN9012,Truck,47,HMV,Overloading,High,2024-03-15,12:30,Udaipur,No,1,140,Foggy,Yes
+,MH17OP3456,Car,36,LMV,Speeding,High,2024-09-05,23:00,Mumbai,Yes,5,15,Rainy,No
+,DL18QR7890,Bike,21,MCWG,Illegal Modification,High,2024-10-12,17:45,Delhi,Yes,3,40,Clear,No
+,KA19ST1234,Auto,30,LMV,No Seatbelt,Low,2023-12-25,8:00,Bengaluru,No,1,190,Cloudy,Yes
+,TN20UV5678,Bus,58,HMV,Signal Jump,Medium,2024-04-18,13:20,Chennai,Yes,2,90,Clear,No
+,GJ21WX9012,Car,34,LMV,Drunk Driving,High,2024-07-30,22:10,Ahmedabad,Yes,4,25,Rainy,No
+,AP22YZ3456,Bike,23,MCWOG,Speeding,High,2024-05-22,16:55,Hyderabad,No,1,130,Foggy,Yes
+,RJ23AB7890,Truck,43,HMV,Overloading,High,2024-06-05,10:30,Jaipur,Yes,3,55,Clear,No
+,MH24CD1234,Bike,27,MCWG,No Helmet,Low,2024-08-15,19:20,Pune,Yes,2,80,Cloudy,No
+,DL25EF5678,SUV,39,LMV,Red Light Jump,Medium,2024-02-10,14:45,Delhi,No,1,170,Rainy,Yes
+,KA26GH9012,Auto,26,LMV,Expired License,Medium,2024-01-05,11:00,Mysuru,Yes,2,150,Clear,No
+,TN27IJ3456,Bus,53,HMV,Wrong Lane,Medium,2023-10-20,9:15,Coimbatore,No,1,210,Foggy,Yes
+,GJ28KL7890,Car,31,LMV,Speeding,High,2024-11-25,20:30,Surat,Yes,3,35,Clear,No
+,AP29MN1234,Bike,24,MCWOG,Parking,Low,2024-04-05,7:50,Visakhapatnam,No,1,160,Cloudy,Yes
+,RJ30OP5678,Truck,49,HMV,Signal Jump,Medium,2024-03-10,12:15,Udaipur,Yes,2,100,Rainy,No
+,MH31QR9012,Car,37,LMV,Drunk Driving,High,2024-09-30,23:55,Nagpur,Yes,4,20,Foggy,No
+,DL32ST3456,Bike,20,MCWG,No Helmet,Low,2024-07-15,18:20,Delhi,No,1,135,Clear,Yes
+,KA33UV7890,Auto,29,LMV,Overloading,High,2024-06-20,8:45,Bengaluru,Yes,3,60,Cloudy,No
+,TN34WX1234,Bus,54,HMV,Dangerous Overtaking,High,2023-12-12,16:00,Chennai,Yes,2,180,Rainy,No
+,GJ35YZ5678,Car,28,LMV,Speeding,High,2024-10-05,21:10,Ahmedabad,Yes,5,10,Clear,No
+,AP36AB9012,Bike,25,MCWOG,No License,High,2024-05-10,19:30,Hyderabad,No,1,145,Foggy,Yes
+,RJ37CD3456,Truck,46,HMV,Overloading,High,2024-04-25,11:50,Jaipur,Yes,3,70,Clear,No
+,MH38EF7890,Bike,30,MCWG,No Helmet,Low,2024-08-30,17:40,Mumbai,Yes,2,85,Cloudy,No
+,DL39GH1234,SUV,41,LMV,Red Light Jump,Medium,2024-01-30,14:00,Delhi,No,1,175,Rainy,Yes
+,KA40IJ5678,Auto,27,LMV,Expired Insurance,Medium,2023-11-15,10:25,Mysuru,Yes,2,195,Clear,No
+,TN41KL9012,Bus,56,HMV,Signal Jump,Medium,2024-07-20,13:10,Coimbatore,Yes,3,50,Foggy,No
+,GJ42MN3456,Car,33,LMV,Speeding,High,2024-12-01,22:45,Surat,Yes,4,15,Clear,No
+,AP43OP7890,Bike,23,MCWOG,Parking,Low,2024-06-25,8:15,Visakhapatnam,No,1,155,Cloudy,Yes
+,RJ44QR1234,Truck,50,HMV,Overloading,High,2024-02-05,12:50,Udaipur,Yes,2,110,Rainy,No
+,MH45ST5678,Car,35,LMV,Drunk Driving,High,2024-11-15,23:30,Pune,Yes,5,5,Foggy,No
+,DL46UV9012,Bike,22,MCWG,No Helmet,Low,2024-08-05,18:05,Delhi,No,1,140,Clear,Yes
+,KA47WX3456,Auto,30,LMV,Wrong Lane,Medium,2024-03-05,9:40,Bengaluru,Yes,3,80,Cloudy,No
+,TN48YZ7890,Bus,57,HMV,Dangerous Overtaking,High,2024-09-10,15:55,Chennai,Yes,4,30,Rainy,No
+,GJ49AB1234,Car,32,LMV,Speeding,High,2024-10-25,20:20,Ahmedabad,Yes,6,5,Clear,No
+,AP50CD5678,Bike,26,MCWOG,No Helmet,Low,2024-07-18,19:15,Hyderabad,Yes,2,65,Foggy,No
+,MH12AB1234,Car,32,LMV,Speeding,High,2024-10-20,22:15,Pune,Yes,3,45,Clear,No
+,MH01CD5678,Bike,24,MCWG,Parking,Low,2023-12-10,9:30,Mumbai,No,1,190,Cloudy,Yes
+,MH09EF6789,Bike,29,MCWOG,No Helmet,Low,2024-02-15,17:00,Nashik,Yes,2,60,Rainy,No
+,MH20GH4567,Truck,45,HMV,Signal Jump,Medium,2024-08-25,13:45,Nagpur,No,1,85,Clear,Yes
+,DL04XY2345,Car,38,LMV,Speeding,High,2024-01-10,19:00,Delhi,Yes,4,30,Foggy,No
+,KA05PQ7890,Bike,21,MCWG,No Helmet,Low,2023-11-11,7:45,Bengaluru,No,1,210,Clear,Yes
+,TN07RT3456,Car,40,LMV,Red Light Jump,High,2024-03-05,18:30,Chennai,Yes,5,15,Rainy,No
+,WB02UV1234,Truck,50,HMV,Overloading,Medium,2024-09-12,11:00,Kolkata,No,2,70,Clear,Yes
+,MH14JK9876,Bike,27,MCWG,Speeding,Medium,2024-04-18,14:20,Pune,Yes,3,40,Cloudy,No
+,RJ03LM4567,Car,35,LMV,Illegal Parking,Low,2024-06-22,10:10,Jaipur,No,1,100,Clear,Yes
+,MH11AB4321,Bike,30,MCWOG,No Helmet,Low,2024-07-01,16:45,Mumbai,Yes,3,25,Rainy,No
+,DL01CD8765,Car,42,LMV,Speeding,High,2024-05-15,20:00,Delhi,No,2,50,Clear,No
+,KA03EF2345,Truck,48,HMV,Signal Jump,Medium,2024-03-20,12:30,Bengaluru,Yes,4,35,Foggy,Yes
+,TN09GH7890,Bike,22,MCWG,No Helmet,Low,2023-12-25,8:00,Chennai,No,1,180,Clear,Yes
+,WB01IJ4567,Car,37,LMV,Speeding,High,2024-08-05,21:15,Kolkata,Yes,4,20,Rainy,No
+,MH15KL3456,Bike,26,MCWG,Parking,Low,2024-01-30,9:50,Pune,No,1,110,Clear,Yes
+,RJ07MN7890,Truck,44,HMV,Overloading,Medium,2024-09-01,14:00,Jaipur,Yes,3,40,Cloudy,Yes
+,MH10OP1234,Car,33,LMV,Speeding,High,2024-10-12,19:30,Mumbai,Yes,5,10,Clear,No
+,DL06QR5678,Bike,23,MCWG,No Helmet,Low,2024-02-28,7:00,Delhi,No,1,120,Foggy,Yes
+,KA01ST3456,Car,39,LMV,Red Light Jump,High,2024-04-10,18:45,Bengaluru,Yes,3,30,Clear,No
+,TN04UV7890,Truck,47,HMV,Signal Jump,Medium,2024-07-15,13:10,Chennai,No,2,55,Rainy,Yes
+,WB03WX1234,Bike,28,MCWG,Speeding,Medium,2024-05-05,15:30,Kolkata,Yes,3,35,Clear,No
+,MH16YZ4567,Car,31,LMV,Illegal Parking,Low,2024-06-18,11:20,Pune,No,1,90,Cloudy,Yes
+,RJ02AB7890,Bike,25,MCWOG,No Helmet,Low,2024-03-22,8:40,Jaipur,Yes,2,60,Clear,No
+,MH13CD3456,Truck,49,HMV,Overloading,Medium,2024-08-30,12:00,Mumbai,No,1,80,Rainy,Yes
+,DL05EF7890,Car,36,LMV,Speeding,High,2024-09-25,20:50,Delhi,Yes,4,15,Foggy,No
+,KA07GH1234,Bike,21,MCWG,No Helmet,Low,2023-11-15,7:30,Bengaluru,No,1,200,Clear,Yes
+,TN02IJ5678,Car,41,LMV,Red Light Jump,High,2024-01-05,19:10,Chennai,Yes,3,50,Rainy,No
+,WB04KL3456,Truck,46,HMV,Signal Jump,Medium,2024-04-22,13:55,Kolkata,No,2,70,Clear,Yes
+,MH17MN7890,Bike,27,MCWG,Speeding,Medium,2024-03-18,14:45,Pune,Yes,3,40,Cloudy,No
+,RJ05OP1234,Car,34,LMV,Illegal Parking,Low,2024-07-10,10:25,Jaipur,No,1,95,Clear,Yes
+,MH18QR5678,Bike,29,MCWOG,No Helmet,Low,2024-05-30,16:00,Mumbai,Yes,3,20,Rainy,No
+,DL07ST3456,Car,43,LMV,Speeding,High,2024-06-05,21:40,Delhi,No,2,60,Foggy,No
+,KA02UV7890,Truck,48,HMV,Overloading,Medium,2024-08-12,12:15,Bengaluru,Yes,3,35,Clear,Yes
+,TN08WX1234,Bike,23,MCWG,No Helmet,Low,2023-12-20,7:20,Chennai,No,1,170,Clear,Yes
+,WB05YZ4567,Car,38,LMV,Speeding,High,2024-09-18,20:05,Kolkata,Yes,4,25,Rainy,No
+,MH19AB7890,Bike,26,MCWG,Parking,Low,2024-02-10,9:00,Pune,No,1,100,Cloudy,Yes
+,RJ06CD3456,Truck,45,HMV,Signal Jump,Medium,2024-07-25,13:35,Jaipur,Yes,3,30,Clear,Yes
+,MH21EF1234,Car,32,LMV,Speeding,High,2024-10-01,22:00,Mumbai,Yes,5,12,Clear,No
+,DL08GH5678,Bike,24,MCWG,No Helmet,Low,2024-01-18,8:15,Delhi,No,1,140,Foggy,Yes
+,KA04IJ7890,Car,39,LMV,Red Light Jump,High,2024-04-28,18:20,Bengaluru,Yes,3,28,Clear,No
+,TN03KL3456,Truck,47,HMV,Overloading,Medium,2024-06-14,11:50,Chennai,No,2,60,Rainy,Yes
+,WB06MN7890,Bike,28,MCWG,Speeding,Medium,2024-05-12,15:10,Kolkata,Yes,3,38,Clear,No
+,MH22OP1234,Car,31,LMV,Illegal Parking,Low,2024-07-20,10:55,Pune,No,1,85,Cloudy,Yes
+,RJ08QR5678,Bike,25,MCWOG,No Helmet,Low,2024-03-28,8:30,Jaipur,Yes,2,55,Clear,No
+,MH23ST3456,Truck,49,HMV,Signal Jump,Medium,2024-09-08,12:40,Mumbai,No,1,75,Rainy,Yes
+,MH24AB4321,Car,34,LMV,Speeding,High,2024-11-05,21:10,Pune,Yes,4,20,Clear,No
+,DL09CD8765,Bike,22,MCWG,No Helmet,Low,2024-03-12,8:25,Delhi,No,1,130,Foggy,Yes
+,KA11EF7890,Truck,47,HMV,Overloading,Medium,2024-07-18,13:50,Bengaluru,Yes,3,40,Cloudy,Yes
+,TN12GH3456,Car,39,LMV,Red Light Jump,High,2024-05-22,19:40,Chennai,Yes,5,15,Rainy,No
+,WB14IJ6789,Bike,29,MCWOG,Speeding,Medium,2024-08-30,17:15,Kolkata,No,2,60,Clear,No
+,MH25KL1234,Car,31,LMV,Illegal Parking,Low,2024-06-10,10:30,Mumbai,No,1,90,Cloudy,Yes
+,RJ16MN5678,Bike,26,MCWG,No Helmet,Low,2024-02-05,7:50,Jaipur,Yes,3,25,Clear,No
+,MH26OP7890,Truck,50,HMV,Signal Jump,Medium,2024-09-15,14:20,Nagpur,No,2,70,Rainy,Yes
+,DL17QR3456,Car,36,LMV,Speeding,High,2024-10-01,22:05,Delhi,Yes,4,12,Foggy,No
+,KA18ST6789,Bike,24,MCWG,No Helmet,Low,2023-12-20,8:10,Bengaluru,No,1,160,Clear,Yes
+,TN19UV1234,Car,42,LMV,Red Light Jump,High,2024-04-15,18:55,Chennai,Yes,3,35,Rainy,No
+,WB20WX5678,Truck,45,HMV,Overloading,Medium,2024-07-28,12:40,Kolkata,No,2,50,Clear,Yes
+,MH27YZ3456,Bike,28,MCWG,Speeding,Medium,2024-05-10,16:30,Pune,Yes,3,40,Cloudy,No
+,RJ21AB7890,Car,33,LMV,Illegal Parking,Low,2024-06-25,11:15,Jaipur,No,1,85,Clear,Yes
+,MH28CD1234,Bike,25,MCWOG,No Helmet,Low,2024-03-30,8:45,Mumbai,Yes,2,60,Rainy,No
+,DL22EF5678,Car,37,LMV,Speeding,High,2024-08-05,20:20,Delhi,Yes,4,25,Foggy,No
+,KA23GH7890,Bike,21,MCWG,No Helmet,Low,2023-11-10,7:35,Bengaluru,No,1,210,Clear,Yes
+,TN24IJ3456,Car,40,LMV,Red Light Jump,High,2024-01-18,19:25,Chennai,Yes,5,10,Rainy,No
+,WB25KL6789,Truck,49,HMV,Signal Jump,Medium,2024-04-22,13:00,Kolkata,No,2,60,Clear,Yes
+,MH29MN1234,Bike,27,MCWG,Speeding,Medium,2024-03-18,14:15,Pune,Yes,3,35,Cloudy,No
+,RJ30OP5678,Car,35,LMV,Illegal Parking,Low,2024-07-12,10:50,Jaipur,No,1,90,Clear,Yes
+,MH31QR7890,Bike,29,MCWOG,No Helmet,Low,2024-05-28,16:10,Mumbai,Yes,3,20,Rainy,No
+,DL32ST3456,Car,44,LMV,Speeding,High,2024-06-08,21:35,Delhi,No,2,65,Foggy,No
+,KA33UV6789,Truck,46,HMV,Overloading,Medium,2024-08-14,12:55,Bengaluru,Yes,3,30,Clear,Yes
+,TN34WX1234,Bike,23,MCWG,No Helmet,Low,2023-12-22,7:10,Chennai,No,1,175,Clear,Yes
+,WB35YZ5678,Car,39,LMV,Speeding,High,2024-09-20,20:40,Kolkata,Yes,4,28,Rainy,No
+,MH36AB3456,Bike,26,MCWG,Parking,Low,2024-02-12,9:15,Pune,No,1,110,Cloudy,Yes
+,RJ37CD7890,Truck,45,HMV,Signal Jump,Medium,2024-07-28,13:20,Jaipur,Yes,3,32,Clear,Yes
+,MH38EF1234,Car,32,LMV,Speeding,High,2024-10-07,22:25,Mumbai,Yes,5,15,Clear,No
+,DL39GH5678,Bike,24,MCWG,No Helmet,Low,2024-01-20,8:05,Delhi,No,1,135,Foggy,Yes
+,KA40IJ7890,Car,38,LMV,Red Light Jump,High,2024-04-30,18:35,Bengaluru,Yes,3,40,Clear,No
+,TN41KL3456,Truck,48,HMV,Overloading,Medium,2024-06-16,11:45,Chennai,No,2,55,Rainy,Yes
+,WB42MN7890,Bike,28,MCWG,Speeding,Medium,2024-05-14,15:05,Kolkata,Yes,3,38,Clear,No
+,MH43OP1234,Car,30,LMV,Illegal Parking,Low,2024-07-22,11:00,Pune,No,1,80,Cloudy,Yes
+,RJ44QR5678,Bike,25,MCWOG,No Helmet,Low,2024-03-30,8:20,Jaipur,Yes,2,50,Clear,No
+,MH45ST3456,Truck,49,HMV,Signal Jump,Medium,2024-09-10,12:30,Mumbai,No,1,70,Rainy,Yes
+,DL46UV6789,Car,33,LMV,Speeding,High,2024-10-03,21:55,Delhi,Yes,4,18,Foggy,No
+,KA47WX1234,Bike,22,MCWG,No Helmet,Low,2023-12-18,7:45,Bengaluru,No,1,165,Clear,Yes
+,TN48YZ5678,Car,41,LMV,Red Light Jump,High,2024-01-25,19:15,Chennai,Yes,3,38,Rainy,No
+,WB49AB7890,Truck,46,HMV,Overloading,Medium,2024-04-28,13:10,Kolkata,No,2,60,Clear,Yes
+,MH50CD3456,Bike,27,MCWG,Speeding,Medium,2024-03-20,14:40,Pune,Yes,3,35,Cloudy,No
+,MH51EF4321,Car,35,LMV,Speeding,High,2024-11-12,20:55,Mumbai,Yes,4,18,Clear,No
+,DL52GH8765,Bike,23,MCWG,No Helmet,Low,2024-03-18,8:30,Delhi,No,1,125,Foggy,Yes
+,KA53IJ7890,Truck,48,HMV,Overloading,Medium,2024-07-22,14:05,Bengaluru,Yes,3,38,Cloudy,Yes
+,TN54KL3456,Car,40,LMV,Red Light Jump,High,2024-05-28,19:50,Chennai,Yes,5,12,Rainy,No
+,WB55MN6789,Bike,30,MCWOG,Speeding,Medium,2024-09-05,17:30,Kolkata,No,2,55,Clear,No
+,MH56OP1234,Car,32,LMV,Illegal Parking,Low,2024-06-15,10:45,Pune,No,1,85,Cloudy,Yes
+,RJ57QR5678,Bike,27,MCWG,No Helmet,Low,2024-02-10,8:05,Jaipur,Yes,3,20,Clear,No
+,MH58ST7890,Truck,51,HMV,Signal Jump,Medium,2024-09-20,14:35,Nagpur,No,2,65,Rainy,Yes
+,DL59UV3456,Car,37,LMV,Speeding,High,2024-10-05,22:20,Delhi,Yes,4,10,Foggy,No
+,KA60WX6789,Bike,25,MCWG,No Helmet,Low,2023-12-25,8:25,Bengaluru,No,1,155,Clear,Yes
+,TN61YZ1234,Car,43,LMV,Red Light Jump,High,2024-04-20,19:10,Chennai,Yes,3,30,Rainy,No
+,WB62AB5678,Truck,46,HMV,Overloading,Medium,2024-08-02,12:55,Kolkata,No,2,45,Clear,Yes
+,MH63CD3456,Bike,29,MCWG,Speeding,Medium,2024-05-15,16:45,Pune,Yes,3,35,Cloudy,No
+,RJ64EF7890,Car,34,LMV,Illegal Parking,Low,2024-06-30,11:30,Jaipur,No,1,80,Clear,Yes
+,MH65GH1234,Bike,26,MCWOG,No Helmet,Low,2024-04-05,8:50,Mumbai,Yes,2,55,Rainy,No
+,DL66IJ5678,Car,38,LMV,Speeding,High,2024-08-10,20:35,Delhi,Yes,4,20,Foggy,No
+,KA67KL7890,Bike,22,MCWG,No Helmet,Low,2023-11-15,7:40,Bengaluru,No,1,205,Clear,Yes
+,TN68MN3456,Car,41,LMV,Red Light Jump,High,2024-01-20,19:40,Chennai,Yes,5,5,Rainy,No
+,WB69OP6789,Truck,50,HMV,Signal Jump,Medium,2024-04-28,13:15,Kolkata,No,2,55,Clear,Yes
+,MH70QR1234,Bike,28,MCWG,Speeding,Medium,2024-03-22,14:30,Pune,Yes,3,30,Cloudy,No
+,RJ71ST5678,Car,36,LMV,Illegal Parking,Low,2024-07-18,11:05,Jaipur,No,1,85,Clear,Yes
+,MH72UV7890,Bike,30,MCWOG,No Helmet,Low,2024-05-31,16:25,Mumbai,Yes,3,18,Rainy,No
+,DL73WX3456,Car,45,LMV,Speeding,High,2024-06-12,21:50,Delhi,No,2,70,Foggy,No
+,KA74YZ6789,Truck,47,HMV,Overloading,Medium,2024-08-18,13:05,Bengaluru,Yes,3,25,Clear,Yes
+,TN75AB1234,Bike,24,MCWG,No Helmet,Low,2023-12-28,7:25,Chennai,No,1,170,Clear,Yes
+,WB76CD5678,Car,40,LMV,Speeding,High,2024-09-25,20:55,Kolkata,Yes,4,23,Rainy,No
+,MH77EF3456,Bike,27,MCWG,Parking,Low,2024-02-15,9:30,Pune,No,1,105,Cloudy,Yes
+,RJ78GH7890,Truck,46,HMV,Signal Jump,Medium,2024-08-02,13:35,Jaipur,Yes,3,28,Clear,Yes
+,MH79IJ1234,Car,33,LMV,Speeding,High,2024-10-10,22:40,Mumbai,Yes,5,10,Clear,No
+,DL80KL5678,Bike,25,MCWG,No Helmet,Low,2024-01-25,8:20,Delhi,No,1,130,Foggy,Yes
+,KA81MN7890,Car,39,LMV,Red Light Jump,High,2024-05-05,18:50,Bengaluru,Yes,3,35,Clear,No
+,TN82OP3456,Truck,49,HMV,Overloading,Medium,2024-06-20,12:00,Chennai,No,2,50,Rainy,Yes
+,WB83QR6789,Bike,29,MCWG,Speeding,Medium,2024-05-18,15:20,Kolkata,Yes,3,33,Clear,No
+,MH84ST1234,Car,31,LMV,Illegal Parking,Low,2024-07-25,11:15,Pune,No,1,75,Cloudy,Yes
+,RJ85UV5678,Bike,26,MCWOG,No Helmet,Low,2024-04-02,8:35,Jaipur,Yes,2,50,Clear,No
+,MH86WX7890,Truck,50,HMV,Signal Jump,Medium,2024-09-12,12:45,Mumbai,No,1,65,Rainy,Yes
+,DL87YZ3456,Car,34,LMV,Speeding,High,2024-10-15,22:10,Delhi,Yes,4,15,Foggy,No
+,KA88AB6789,Bike,23,MCWG,No Helmet,Low,2023-12-22,8:00,Bengaluru,No,1,160,Clear,Yes
+,TN89CD1234,Car,42,LMV,Red Light Jump,High,2024-01-28,19:30,Chennai,Yes,3,33,Rainy,No
+,WB90EF5678,Truck,45,HMV,Overloading,Medium,2024-05-02,13:20,Kolkata,No,2,58,Clear,Yes
+,MH91GH3456,Bike,29,MCWG,Speeding,Medium,2024-03-25,14:55,Pune,Yes,3,32,Cloudy,No
+,RJ92IJ7890,Car,37,LMV,Illegal Parking,Low,2024-07-20,11:30,Jaipur,No,1,82,Clear,Yes
+,MH93KL1234,Bike,25,MCWOG,No Helmet,Low,2024-04-08,8:40,Mumbai,Yes,2,48,Rainy,No
+,DL94MN5678,Car,40,LMV,Speeding,High,2024-08-15,20:45,Delhi,Yes,4,23,Foggy,No
+,KA95OP7890,Bike,21,MCWG,No Helmet,Low,2023-11-20,7:55,Bengaluru,No,1,200,Clear,Yes
+,TN96QR3456,Car,44,LMV,Red Light Jump,High,2024-01-30,19:55,Chennai,Yes,5,8,Rainy,No
+,WB97ST6789,Truck,49,HMV,Signal Jump,Medium,2024-05-05,13:30,Kolkata,No,2,53,Clear,Yes
+,MH98UV1234,Bike,27,MCWG,Speeding,Medium,2024-03-28,14:45,Pune,Yes,3,28,Cloudy,No
+,RJ99WX5678,Car,35,LMV,Illegal Parking,Low,2024-07-22,11:45,Jaipur,No,1,78,Clear,Yes
+,MH12AB1234,Car,32,LMV,Speeding,High,2024-10-20,22:15,Pune,Yes,3,45,Clear,No
+,MH01CD5678,Bike,24,MCWG,Parking,Low,2023-12-10,9:30,Mumbai,No,1,190,Cloudy,Yes
+,DL03EF6789,Bike,29,MCWOG,No Helmet,Low,2024-02-15,17:00,South Delhi,Yes,2,60,Rainy,No
+,KA05GH4567,Truck,45,HMV,Signal Jump,Medium,2024-08-25,13:45,Bengaluru,No,1,85,Clear,Yes
+,TN09IJ2345,Car,38,LMV,Speeding,High,2024-01-10,19:00,Chennai,Yes,4,30,Foggy,No
+,WB04KL7890,Bike,21,MCWG,No Helmet,Low,2023-11-11,7:45,Kolkata,No,1,210,Clear,Yes
+,RJ14MN3456,Car,40,LMV,Red Light Jump,High,2024-03-05,18:30,Jaipur,Yes,5,15,Rainy,No
+,GJ06OP1234,Truck,50,HMV,Overloading,Medium,2024-09-12,11:00,Ahmedabad,No,2,70,Clear,Yes
+,HR26QR9876,Bike,27,MCWG,Speeding,Medium,2024-04-18,14:20,Gurugram,Yes,3,40,Cloudy,No
+,UP32ST4567,Car,35,LMV,Illegal Parking,Low,2024-06-22,10:10,Lucknow,No,1,100,Clear,Yes
+,MH11AB4321,Bike,30,MCWOG,No Helmet,Low,2024-07-01,16:45,Mumbai,Yes,3,25,Rainy,No
+,DL01CD8765,Car,42,LMV,Speeding,High,2024-05-15,20:00,Central Delhi,No,2,50,Clear,No
+,KA03EF2345,Truck,48,HMV,Signal Jump,Medium,2024-03-20,12:30,Bengaluru,Yes,4,35,Foggy,Yes
+,TN09GH7890,Bike,22,MCWG,No Helmet,Low,2023-12-25,8:00,Chennai,No,1,180,Clear,Yes
+,WB01IJ4567,Car,37,LMV,Speeding,High,2024-08-05,21:15,Kolkata,Yes,4,20,Rainy,No
+,MH15KL3456,Bike,26,MCWG,Parking,Low,2024-01-30,9:50,Pune,No,1,110,Clear,Yes
+,RJ07MN7890,Truck,44,HMV,Overloading,Medium,2024-09-01,14:00,Jaipur,Yes,3,40,Cloudy,Yes
+,MH10OP1234,Car,33,LMV,Speeding,High,2024-10-12,19:30,Mumbai,Yes,5,10,Clear,No
+,DL06QR5678,Bike,23,MCWG,No Helmet,Low,2024-02-28,7:00,Delhi,No,1,120,Foggy,Yes
+,KA01ST3456,Car,39,LMV,Red Light Jump,High,2024-04-10,18:45,Bengaluru,Yes,3,30,Clear,No
+,TN04UV7890,Truck,47,HMV,Signal Jump,Medium,2024-07-15,13:10,Chennai,No,2,55,Rainy,Yes
+,WB03WX1234,Bike,28,MCWG,Speeding,Medium,2024-05-05,15:30,Kolkata,Yes,3,35,Clear,No
+,MH16YZ4567,Car,31,LMV,Illegal Parking,Low,2024-06-18,11:20,Pune,No,1,90,Cloudy,Yes
+,RJ02AB7890,Bike,25,MCWOG,No Helmet,Low,2024-03-22,8:40,Jaipur,Yes,2,60,Clear,No
+,MH13CD3456,Truck,49,HMV,Overloading,Medium,2024-08-30,12:00,Mumbai,No,1,80,Rainy,Yes
+,DL05EF7890,Car,36,LMV,Speeding,High,2024-09-25,20:50,Delhi,Yes,4,15,Foggy,No
+,KA07GH1234,Bike,21,MCWG,No Helmet,Low,2023-11-15,7:30,Bengaluru,No,1,200,Clear,Yes
+,TN02IJ5678,Car,41,LMV,Red Light Jump,High,2024-01-05,19:10,Chennai,Yes,3,50,Rainy,No
+,WB04KL3456,Truck,46,HMV,Signal Jump,Medium,2024-04-22,13:55,Kolkata,No,2,70,Clear,Yes
+,MH17MN7890,Bike,27,MCWG,Speeding,Medium,2024-03-18,14:45,Pune,Yes,3,40,Cloudy,No
+,RJ05OP1234,Car,34,LMV,Illegal Parking,Low,2024-07-10,10:25,Jaipur,No,1,95,Clear,Yes
+,MH18QR5678,Bike,29,MCWOG,No Helmet,Low,2024-05-30,16:00,Mumbai,Yes,3,20,Rainy,No
+,DL07ST3456,Car,43,LMV,Speeding,High,2024-06-05,21:40,Delhi,No,2,60,Foggy,No
+,KA02UV7890,Truck,48,HMV,Overloading,Medium,2024-08-12,12:15,Bengaluru,Yes,3,35,Clear,Yes
+,TN08WX1234,Bike,23,MCWG,No Helmet,Low,2023-12-20,7:20,Chennai,No,1,170,Clear,Yes
+,WB05YZ4567,Car,38,LMV,Speeding,High,2024-09-18,20:05,Kolkata,Yes,4,25,Rainy,No
+,MH19AB7890,Bike,26,MCWG,Parking,Low,2024-02-10,9:00,Pune,No,1,100,Cloudy,Yes
+,RJ06CD3456,Truck,45,HMV,Signal Jump,Medium,2024-07-25,13:35,Jaipur,Yes,3,30,Clear,Yes
+,MH21EF1234,Car,32,LMV,Speeding,High,2024-10-01,22:00,Mumbai,Yes,5,12,Clear,No
+,DL08GH5678,Bike,24,MCWG,No Helmet,Low,2024-01-18,8:15,Delhi,No,1,140,Foggy,Yes
+,KA04IJ7890,Car,39,LMV,Red Light Jump,High,2024-04-28,18:20,Bengaluru,Yes,3,28,Clear,No
+,TN03KL3456,Truck,47,HMV,Overloading,Medium,2024-06-14,11:50,Chennai,No,2,60,Rainy,Yes
+,WB06MN7890,Bike,28,MCWG,Speeding,Medium,2024-05-12,15:10,Kolkata,Yes,3,38,Clear,No
+,MH22OP1234,Car,31,LMV,Illegal Parking,Low,2024-07-20,10:55,Pune,No,1,85,Cloudy,Yes
+,RJ08QR5678,Bike,25,MCWOG,No Helmet,Low,2024-03-28,8:30,Jaipur,Yes,2,55,Clear,No
+,MH23ST3456,Truck,49,HMV,Signal Jump,Medium,2024-09-08,12:40,Mumbai,No,1,75,Rainy,Yes
+,MH24AB6789,Car,34,LMV,Speeding,High,2024-11-05,21:10,Pune,Yes,4,20,Clear,No
+,DL09CD3456,Bike,22,MCWG,No Helmet,Low,2024-03-12,8:25,Delhi,No,1,130,Foggy,Yes
+,KA11EF7890,Truck,47,HMV,Overloading,Medium,2024-07-18,13:50,Bengaluru,Yes,3,40,Cloudy,Yes
+,TN12GH2345,Car,39,LMV,Red Light Jump,High,2024-05-22,19:40,Chennai,Yes,5,15,Rainy,No
+,WB14IJ9876,Bike,29,MCWOG,Speeding,Medium,2024-08-30,17:15,Kolkata,No,2,60,Clear,No
+,MH25KL4567,Car,31,LMV,Illegal Parking,Low,2024-06-10,10:30,Mumbai,No,1,90,Cloudy,Yes
+,RJ16MN7890,Bike,26,MCWG,No Helmet,Low,2024-02-05,7:50,Jaipur,Yes,3,25,Clear,No
+,MH26OP1234,Truck,50,HMV,Signal Jump,Medium,2024-09-15,14:20,Nagpur,No,2,70,Rainy,Yes
+,DL17QR5678,Car,36,LMV,Speeding,High,2024-10-01,22:05,Delhi,Yes,4,12,Foggy,No
+,KA18ST3456,Bike,24,MCWG,No Helmet,Low,2023-12-20,8:10,Bengaluru,No,1,160,Clear,Yes
+,TN19UV7890,Car,42,LMV,Red Light Jump,High,2024-04-15,18:55,Chennai,Yes,3,35,Rainy,No
+,WB20WX1234,Truck,45,HMV,Overloading,Medium,2024-07-28,12:40,Kolkata,No,2,50,Clear,Yes
+,MH27YZ6789,Bike,28,MCWG,Speeding,Medium,2024-05-10,16:30,Pune,Yes,3,40,Cloudy,No
+,RJ21AB1234,Car,33,LMV,Illegal Parking,Low,2024-06-25,11:15,Jaipur,No,1,85,Clear,Yes
+,MH28CD5678,Bike,25,MCWOG,No Helmet,Low,2024-03-30,8:45,Mumbai,Yes,2,60,Rainy,No
+,DL22EF7890,Car,37,LMV,Speeding,High,2024-08-05,20:20,Delhi,Yes,4,25,Foggy,No
+,KA23GH1234,Bike,21,MCWG,No Helmet,Low,2023-11-10,7:35,Bengaluru,No,1,210,Clear,Yes
+,TN24IJ5678,Car,40,LMV,Red Light Jump,High,2024-01-18,19:25,Chennai,Yes,5,10,Rainy,No
+,WB25KL7890,Truck,49,HMV,Signal Jump,Medium,2024-04-22,13:00,Kolkata,No,2,60,Clear,Yes
+,MH29MN3456,Bike,27,MCWG,Speeding,Medium,2024-03-18,14:45,Pune,Yes,3,35,Cloudy,No
+,RJ30OP6789,Car,35,LMV,Illegal Parking,Low,2024-07-12,10:50,Jaipur,No,1,90,Clear,Yes
+,MH31QR1234,Bike,29,MCWOG,No Helmet,Low,2024-05-28,16:10,Mumbai,Yes,3,20,Rainy,No
+,DL32ST5678,Car,44,LMV,Speeding,High,2024-06-08,21:35,Delhi,No,2,60,Foggy,No
+,KA33UV7890,Truck,48,HMV,Overloading,Medium,2024-08-14,12:55,Bengaluru,Yes,3,35,Clear,Yes
+,TN34WX1234,Bike,23,MCWG,No Helmet,Low,2023-12-22,7:10,Chennai,No,1,170,Clear,Yes
+,WB35YZ5678,Car,38,LMV,Speeding,High,2024-09-18,20:05,Kolkata,Yes,4,25,Rainy,No
+,MH36AB3456,Bike,26,MCWG,Parking,Low,2024-02-10,9:00,Pune,No,1,100,Cloudy,Yes
+,RJ37CD7890,Truck,45,HMV,Signal Jump,Medium,2024-07-25,13:35,Jaipur,Yes,3,30,Clear,Yes
+,MH38EF1234,Car,32,LMV,Speeding,High,2024-10-07,22:25,Mumbai,Yes,5,12,Clear,No
+,DL39GH5678,Bike,24,MCWG,No Helmet,Low,2024-01-28,8:15,Delhi,No,1,140,Foggy,Yes
+,KA40IJ7890,Car,39,LMV,Red Light Jump,High,2024-04-28,18:20,Bengaluru,Yes,3,28,Clear,No
+,TN41KL3456,Truck,47,HMV,Overloading,Medium,2024-06-14,11:50,Chennai,No,2,60,Rainy,Yes
+,WB42MN7890,Bike,28,MCWG,Speeding,Medium,2024-05-12,15:10,Kolkata,Yes,3,38,Clear,No
+,MH43OP1234,Car,30,LMV,Illegal Parking,Low,2024-07-20,10:55,Pune,No,1,85,Cloudy,Yes
+,RJ44QR5678,Bike,25,MCWOG,No Helmet,Low,2024-03-28,8:30,Jaipur,Yes,2,55,Clear,No
+,MH45ST3456,Truck,49,HMV,Signal Jump,Medium,2024-09-08,12:40,Mumbai,No,1,75,Rainy,Yes
+,MH46AB7890,Car,33,LMV,Speeding,High,2024-11-12,21:05,Pune,Yes,4,18,Clear,No
+,DL47CD1234,Bike,24,MCWG,No Helmet,Low,2024-03-18,8:40,Delhi,No,1,125,Foggy,Yes
+,KA48EF5678,Truck,49,HMV,Overloading,Medium,2024-07-22,14:15,Bengaluru,Yes,3,38,Cloudy,Yes
+,TN49GH9012,Car,41,LMV,Red Light Jump,High,2024-05-30,20:10,Chennai,Yes,5,13,Rainy,No
+,WB50IJ3456,Bike,31,MCWOG,Speeding,Medium,2024-09-10,17:40,Kolkata,No,2,50,Clear,No
+,MH51KL7890,Car,34,LMV,Illegal Parking,Low,2024-06-20,10:20,Mumbai,No,1,88,Cloudy,Yes
+,RJ52MN1234,Bike,28,MCWG,No Helmet,Low,2024-02-15,8:10,Jaipur,Yes,3,22,Clear,No
+,MH53OP5678,Truck,52,HMV,Signal Jump,Medium,2024-09-25,14:45,Nagpur,No,2,68,Rainy,Yes
+,DL54QR9012,Car,38,LMV,Speeding,High,2024-10-10,22:35,Delhi,Yes,4,11,Foggy,No
+,KA55ST3456,Bike,26,MCWG,No Helmet,Low,2023-12-30,8:40,Bengaluru,No,1,150,Clear,Yes
+,TN56UV7890,Car,44,LMV,Red Light Jump,High,2024-04-25,19:25,Chennai,Yes,3,28,Rainy,No
+,WB57WX1234,Truck,48,HMV,Overloading,Medium,2024-08-05,13:15,Kolkata,No,2,48,Clear,Yes
+,MH58YZ5678,Bike,30,MCWG,Speeding,Medium,2024-05-20,17:00,Pune,Yes,3,33,Cloudy,No
+,RJ59AB9012,Car,35,LMV,Illegal Parking,Low,2024-07-30,11:45,Jaipur,No,1,82,Clear,Yes
+,MH60CD3456,Bike,27,MCWOG,No Helmet,Low,2024-04-10,9:10,Mumbai,Yes,2,50,Rainy,No
+,DL61EF7890,Car,39,LMV,Speeding,High,2024-08-15,21:00,Delhi,Yes,4,22,Foggy,No
+,KA62GH1234,Bike,23,MCWG,No Helmet,Low,2023-11-20,7:45,Bengaluru,No,1,205,Clear,Yes
+,TN63IJ5678,Car,42,LMV,Red Light Jump,High,2024-01-25,19:50,Chennai,Yes,5,7,Rainy,No
+,WB64KL9012,Truck,51,HMV,Signal Jump,Medium,2024-05-10,13:45,Kolkata,No,2,52,Clear,Yes
+,MH65MN3456,Bike,29,MCWG,Speeding,Medium,2024-03-30,15:05,Pune,Yes,3,30,Cloudy,No
+,RJ66OP7890,Car,37,LMV,Illegal Parking,Low,2024-07-25,12:00,Jaipur,No,1,80,Clear,Yes
+,MH67QR1234,Bike,31,MCWOG,No Helmet,Low,2024-06-01,16:50,Mumbai,Yes,3,15,Rainy,No
+,DL68ST5678,Car,46,LMV,Speeding,High,2024-06-15,22:00,Delhi,No,2,65,Foggy,No
+,KA69UV7890,Truck,49,HMV,Overloading,Medium,2024-08-20,13:30,Bengaluru,Yes,3,22,Clear,Yes
+,TN70WX1234,Bike,25,MCWG,No Helmet,Low,2023-12-30,7:50,Chennai,No,1,165,Clear,Yes
+,WB71YZ5678,Car,41,LMV,Speeding,High,2024-09-28,21:10,Kolkata,Yes,4,20,Rainy,No
+,MH72AB3456,Bike,26,MCWG,Parking,Low,2024-02-20,9:10,Pune,No,1,100,Cloudy,Yes
+,RJ73CD7890,Truck,47,HMV,Signal Jump,Medium,2024-08-10,14:00,Jaipur,Yes,3,27,Clear,Yes
+,MH74EF1234,Car,34,LMV,Speeding,High,2024-10-18,23:00,Mumbai,Yes,5,12,Clear,No
+,DL75GH5678,Bike,26,MCWG,No Helmet,Low,2024-01-28,8:20,Delhi,No,1,135,Foggy,Yes
+,KA76IJ7890,Car,40,LMV,Red Light Jump,High,2024-05-10,19:10,Bengaluru,Yes,3,38,Clear,No
+,TN77KL3456,Truck,50,HMV,Overloading,Medium,2024-06-25,12:20,Chennai,No,2,48,Rainy,Yes
+,WB78MN7890,Bike,30,MCWG,Speeding,Medium,2024-05-20,15:40,Kolkata,Yes,3,35,Clear,No
+,MH79OP1234,Car,32,LMV,Illegal Parking,Low,2024-07-28,11:30,Pune,No,1,80,Cloudy,Yes
+,RJ80QR5678,Bike,27,MCWOG,No Helmet,Low,2024-04-05,9:00,Jaipur,Yes,2,45,Clear,No
+,MH81ST3456,Truck,52,HMV,Signal Jump,Medium,2024-09-15,13:00,Mumbai,No,1,60,Rainy,Yes
+,DL82UV6789,Car,35,LMV,Speeding,High,2024-10-20,22:20,Delhi,Yes,4,15,Foggy,No
+,KA83WX1234,Bike,24,MCWG,No Helmet,Low,2023-12-28,8:00,Bengaluru,No,1,160,Clear,Yes
+,TN84YZ5678,Car,43,LMV,Red Light Jump,High,2024-02-01,19:40,Chennai,Yes,3,30,Rainy,No
+,WB85AB7890,Truck,48,HMV,Overloading,Medium,2024-05-10,13:30,Kolkata,No,2,55,Clear,Yes
+,MH86CD3456,Bike,29,MCWG,Speeding,Medium,2024-03-28,15:10,Pune,Yes,3,32,Cloudy,No

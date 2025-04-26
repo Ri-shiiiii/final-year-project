@@ -1,0 +1,47 @@
+import pandas as pd
+
+# Load the CSV file, skipping the first row (which is the original header)
+df = pd.read_csv('data.csv', skiprows=0)
+
+# Drop any unwanted 'Unnamed' index columns if they exist
+df = df.loc[:, ~df.columns.str.contains('^Unnamed')]
+
+# Preview the cleaned data
+print("✅ Cleaned Data Preview:")
+print(df.head())
+
+# Optional: Check column names
+print("\n📋 Column Names:")
+print(df.columns.tolist())
+
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import LabelEncoder
+
+# Step 1: Handle missing values (if any)
+df.fillna(method='ffill', inplace=True)
+
+# Step 2: Encode categorical columns
+label_encoder = LabelEncoder()
+
+df['Vehicle Type'] = label_encoder.fit_transform(df['Vehicle Type'])
+df['License Type'] = label_encoder.fit_transform(df['License Type'])
+df['Violation Type'] = label_encoder.fit_transform(df['Violation Type'])
+df['Severity'] = label_encoder.fit_transform(df['Severity'])
+df['Weather'] = label_encoder.fit_transform(df['Weather'])
+df['Repeated Offense'] = label_encoder.fit_transform(df['Repeated Offense'])
+df['Safe'] = label_encoder.fit_transform(df['Safe'])  # Target column
+
+# Optional: You can encode Location and Number Plate too, but not necessary unless useful.
+
+# Step 3: Define feature set (X) and target (y)
+X = df[['Vehicle Type', 'Owner Age', 'License Type', 'Violation Type', 
+        'Severity', 'Repeated Offense', 'Total Violations', 
+        'Days Since Last Violation', 'Weather']]
+y = df['Safe']
+
+# Step 4: Train-test split (70% training, 30% testing)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
+
+# Check shape of datasets
+print("✅ Training set size:", X_train.shape)
+print("✅ Testing set size:", X_test.shape)

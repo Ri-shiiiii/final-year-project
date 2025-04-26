@@ -1,0 +1,41 @@
+this code is working for uk number plate but only issue is that it does not respect gaps 
+
+
+import cv2
+import pytesseract
+
+# Path to Tesseract OCR executable
+pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+
+def detect_plate(image_path):
+    image = cv2.imread(image_path)
+    if image is None:
+        print("❌ Failed to load image!")
+        return
+
+    # Convert the image to grayscale
+    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+
+    # Enhance contrast using histogram equalization
+    gray = cv2.equalizeHist(gray)
+
+    # Optional: Apply Gaussian Blur to reduce noise
+    gray = cv2.GaussianBlur(gray, (3, 3), 0)
+
+    # Thresholding (optional: adjust parameters as needed)
+    _, thresholded = cv2.threshold(gray, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)
+
+    # OCR configuration
+    custom_config = r'--psm 11 -c tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 '
+
+    # OCR
+    text = pytesseract.image_to_string(thresholded, config=custom_config)
+
+    # Print and show results
+    print("Detected Number Plate Text:", text.strip())
+    cv2.imshow("Thresholded Image", thresholded)  # Show thresholded image
+    cv2.waitKey(0)
+    cv2.destroyAllWindows()
+
+# Run the function with the image path
+detect_plate(r"C:\Users\Rushikesh-PC\OneDrive\Documents\number_plate_project\plate.png")
